@@ -1,0 +1,14 @@
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\bin\Debug\net8.0\w67166_OP.exe
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\bin\Debug\net8.0\w67166_OP.deps.json
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\bin\Debug\net8.0\w67166_OP.runtimeconfig.json
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\bin\Debug\net8.0\w67166_OP.dll
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\bin\Debug\net8.0\w67166_OP.pdb
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\w67166_OP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\w67166_OP.AssemblyInfoInputs.cache
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\w67166_OP.AssemblyInfo.cs
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\w67166_OP.csproj.CoreCompileInputs.cache
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\w67166_OP.dll
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\refint\w67166_OP.dll
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\w67166_OP.pdb
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\w67166_OP.genruntimeconfig.cache
+C:\Users\snowa\Desktop\PROJEKTY\Programowanie obiektowe 2023-2024\w67166_OP\obj\Debug\net8.0\ref\w67166_OP.dll

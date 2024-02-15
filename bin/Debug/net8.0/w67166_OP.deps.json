@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "w67166_OP/1.0.0": {
+        "runtime": {
+          "w67166_OP.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "w67166_OP/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
